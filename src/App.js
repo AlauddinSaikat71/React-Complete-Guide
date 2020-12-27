@@ -6,6 +6,7 @@ class App extends Component {
     return (
       <div className="App">
         <h1>Hi I am ReactApp!</h1>
+        <p> Whatsapp bro </p>
       </div>
     );
   }
